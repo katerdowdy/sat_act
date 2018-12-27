@@ -21,11 +21,11 @@ The dataframe is 51 rows x 17 columns. SAT data for both years includes a breakd
 
 **Participation Rates**
 
-The ACT saw a higher aggregate average participation rate than the SAT in both 2017 and 2018, although a 5% participation increase in the average SAT participation rate and 3% decrease on the ACT participation rate from 2017 saw that gap decline to 16.7% in 2018. (This data compares state averages, not the average of all U.S. students participating on either test - comparing those averages, the SAT is actually ahead of the ACT ([according to the Washington Post.])( https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/?utm_term=.d2bd83ee7b24).
+The ACT saw a higher aggregate average participation rate than the SAT in both 2017 and 2018, although a 5% participation increase in the average SAT participation rate and 3% decrease on the ACT participation rate from 2017 saw that gap decline to 16.7% in 2018. (This data compares state averages, not the average of all U.S. students participating on either test - comparing those averages, the SAT is actually ahead of the ACT (_[according to the Washington Post.](https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/?utm_term=.d2bd83ee7b24)_.)
 
 Looking at 2017 distributions for participation rates for both tests (which didn't change much in 2018), it appears the ACT benefits from a large cluster of states administering the ACT at 90-100% participation. Conversely, a similar number of states (likely the same states with high ACT participation) had very low participation on the SAT in 2017 (0-20%), bringing down the average SAT participation rate.
 
-<img src="../sat_act/Images/participation_2017.png">
+<img src="./Images/participation_2017.png">
 
 A few changes in SAT participation that are worth noting: DC had 100% participation on the SAT in 2017 but saw a decline in 2018; Idaho converted its 95% participation on the SAT in 2017 to 100% in 2018.
 
@@ -37,8 +37,8 @@ The data shows no major changes in how well states performed on either test from
 
 The data also appears to show an inverse correlation between participation rates and average scores. For both the SAT and ACT, higher rates of participation on either test statewide seem to bring down the overall statewide average score on that test.
 
-<img src="../sat_act/Images/sat_scores_part.png">
-<img src="../sat_act/Images/act_scores_part.png">
+<img src="./Images/sat_scores_part.png">
+<img src="./Images/act_scores_part.png">
 
 **
 
@@ -60,22 +60,22 @@ Knowing what we know about the relationship between participation rates and test
 **2018 SAT Performance, States Ranked Best (Left) to Worst (Right)**
 
 _States in yellow had 100% ACT Participation_
-<img src="../sat_act/Images/2018_sat_ranks_100_act.png">
+<img src="./Images/2018_sat_ranks_100_act.png">
 
 **2018 ACT Performance, States Ranked Best (Left) to Worst (Right)**
 
 _States in yellow had 100% ACT Participation_
-<img src="../sat_act/Images/2018_act_ranks_100_act.png">
+<img src="./Images/2018_act_ranks_100_act.png">
 
 **2018 SAT Performance, States Ranked Best (Left) to Worst (Right)**
 
 _States in orange had 100% SAT Participation_
-<img src="../sat_act/Images/2018_sat_ranks_100_sat.png">
+<img src="./Images/2018_sat_ranks_100_sat.png">
 
 **2018 ACT Performance, States Ranked Best (Left) to Worst (Right)**
 
 _States in orange had 100% SAT Participation_
-<img src="../sat_act/Images/2018_act_ranks_100_sat.png">
+<img src="./Images/2018_act_ranks_100_sat.png">
 
 
 ### Recommendations to the College Board
