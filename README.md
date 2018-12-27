@@ -5,7 +5,7 @@
 > The majority of four-year colleges and universities across the U.S. require prospective students to submit scores from either the SAT or ACT as part of their application. Holding both tests to be equally challenging and rigorous, we would expect to see a fairly even proportion of students who choose to take either test for their college admissions. However, 2018 data demonstrates a 16.7% difference in average state-wide participation rates, with the SAT lagging behind the ACT.
 
 ### Problem Statement
-This analysis seeks to explore what factors are behind this participation gap, and to make recommendations to the College Board on where to focus their efforts to rebuild and grow participation rates for the SAT in 2019-2010. 
+This analysis seeks to explore what factors are behind this participation gap, and to make recommendations to the College Board on where to focus their efforts to rebuild and grow participation rates for the SAT in 2019-2020. 
 
 ### Description of Data
 The final dataset used for this analysis consists of aggregate participation rates and average scores on the SAT and ACT for each state and the District of Columbia. Data came from these sources:
@@ -15,7 +15,7 @@ The final dataset used for this analysis consists of aggregate participation rat
 - [2017 SAT Data](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/)
 
 #### Data Dictionary 
-<img src="../sat_act/Images/data_dictionary.png">
+<img src="./sat_act/Images/data_dictionary.png">
 
 The dataframe is 51 rows x 17 columns. SAT data for both years includes a breakdown of state average scores for each section of the SAT; the ACT data only includes section averages for 2017. 
 
