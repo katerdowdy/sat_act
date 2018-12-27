@@ -1,4 +1,4 @@
-# Project 1: SAT vs. ACT: Analyzing Participation Rates, 2017-2018
+# SAT vs. ACT: Analyzing Participation Rates, 2017-2018
 
 ## Executive Summary
 
