@@ -70,7 +70,7 @@ _States in yellow had 100% ACT Participation_
 **2018 SAT Performance, States Ranked Best (Left) to Worst (Right)**
 
 _States in orange had 100% SAT Participation_
-<img src="./Images/2018_sat_ranks_100_sat.png">
+<img src="./Images/2018_sat_ranks_100_sat1.png">
 
 **2018 ACT Performance, States Ranked Best (Left) to Worst (Right)**
 
