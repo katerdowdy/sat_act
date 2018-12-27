@@ -15,13 +15,13 @@ The final dataset used for this analysis consists of aggregate participation rat
 - [2017 SAT Data](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/)
 
 #### Data Dictionary 
-<img src="./sat_act/Images/data_dictionary.png">
+<img src="sat_act/Images/data_dictionary.png">
 
 The dataframe is 51 rows x 17 columns. SAT data for both years includes a breakdown of state average scores for each section of the SAT; the ACT data only includes section averages for 2017. 
 
 **Participation Rates**
 
-The ACT saw a higher aggregate average participation rate than the SAT in both 2017 and 2018, although a 5% participation increase in the average SAT participation rate and 3% decrease on the ACT participation rate from 2017 saw that gap decline to 16.7% in 2018. (This data compares state averages, not the average of all U.S. students participating on either test - comparing those averages, the SAT is actually ahead of the ACT (source: https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/?utm_term=.d2bd83ee7b24)).
+The ACT saw a higher aggregate average participation rate than the SAT in both 2017 and 2018, although a 5% participation increase in the average SAT participation rate and 3% decrease on the ACT participation rate from 2017 saw that gap decline to 16.7% in 2018. (This data compares state averages, not the average of all U.S. students participating on either test - comparing those averages, the SAT is actually ahead of the ACT ([according to the Washington Post. https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/?utm_term=.d2bd83ee7b24]).
 
 Looking at 2017 distributions for participation rates for both tests (which didn't change much in 2018), it appears the ACT benefits from a large cluster of states administering the ACT at 90-100% participation. Conversely, a similar number of states (likely the same states with high ACT participation) had very low participation on the SAT in 2017 (0-20%), bringing down the average SAT participation rate.
 
